@@ -1,4 +1,4 @@
-# PRTG Telegram Proxy Notification
+# Telegram Proxy Notification
 
 Скрипт на PowerShell для отправки уведомлений из командной строки PS в Telegram через HTTP-прокси. Позволяет избежать использования глобальных настроек прокси в приложениях.
 
